@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.class-one, .class-two
+{
+    background-color:rgb(245, 156, 168);
+    font-family: verdana, "Dejavu Sans", sans-serif;
+}
+#second {
+    color: rgb(55, 18, 219);
+    font-size: 36px;
+} 
+.class-two{
+    font-size: 24px;
+}
+#fourth {
+    background-color: rgb(95, 230, 106);
+    font-size: 24px;
+    font-weight: bold;
+}
